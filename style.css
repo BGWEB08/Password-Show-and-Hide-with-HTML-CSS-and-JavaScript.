@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ffC13D;
+}
+
+.container {
+    background: #fff;
+    width: 90%;
+    max-width: 500px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 300px auto;
+}
+
+input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 20px;
+    border: 0;
+    outline: 0;
+}
+
+i {
+    width: 30px; 
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
