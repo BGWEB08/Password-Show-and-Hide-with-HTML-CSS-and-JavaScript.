@@ -14,4 +14,4 @@ Enter your password. Click the eye icon button to toggle between showing and hid
 
 ## Demo
 
-![Password Show and Hide Demo](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Password%20Show%20and%20Hide/passwordshowandhide-img.png?raw=true)
+![Password Show and Hide Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Password%20Show%20and%20Hide/passwordshowandhide-img.png?raw=true)
